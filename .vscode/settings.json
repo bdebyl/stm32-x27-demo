@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "main.h": "c",
+    },
+    "editor.formatOnSave": true,
+    "doxdocgen.generic.authorName": "Bastian de Byl",
+    "doxdocgen.generic.authorEmail": "bastian@bdebyl.com",
+    "cortex-debug.variableUseNaturalFormat": false
+}
